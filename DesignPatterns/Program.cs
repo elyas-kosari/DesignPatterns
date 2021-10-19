@@ -18,7 +18,7 @@
             // CreationalPatterns.Decorator.Demo.Show();
 
             // 4. Facade Pattern
-            // CreationalPatterns.Facade.Demo.Show();
+             CreationalPatterns.Facade.Demo.Show();
 
             // 5. Flyweight Pattern
             // CreationalPatterns.Flyweight.Demo.Show();
