@@ -4,6 +4,8 @@
     {
         static void Main(string[] args)
         {
+            // Just uncomment any Design Pattern you wish to test
+
             ////////////////////// Creational Patterns //////////////////////
 
             // 1. Composite Pattern
